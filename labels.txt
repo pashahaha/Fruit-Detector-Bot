@@ -1,0 +1,2 @@
+0 Buah Matang
+1 Buah Tidak Matang
